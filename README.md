@@ -1,2 +1,2 @@
 # ncre-exercise
-some practice code writing during prepare ncre python exam
+some practice code writing during preparing ncre python exam
